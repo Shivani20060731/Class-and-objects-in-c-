@@ -105,7 +105,7 @@ Algorithm:
 3. Take input for radius.
 
 
-4. Call function area() to compute area.
+4.   compute area with radius of circle.
 
 
 5. Display result.
